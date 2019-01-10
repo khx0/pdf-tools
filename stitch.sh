@@ -1,11 +1,12 @@
 #!/bin/bash
+##########################################################################################
 # author: Nikolas Schnellbaecher
 # contact: khx0@posteo.net
 # file: stitch.sh
-# date: 2018-08-11
+# date: 2019-01-10
 # description: stichtes pdf files together
 # requires pdfunite as a part of the poppler library
-####################################################################
+##########################################################################################
 
 # pdfunite syntax
 # $pdfunite file_A.pdf file_B.pdf ... target.pdf
